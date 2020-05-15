@@ -26,5 +26,5 @@ The dataset folder consists of _'monthly_deaths.csv'_ and _'yearly_deaths.csv'_ 
 
 If the user has jupyter notebook and necessary anaconda distribution. We can easily run the jupyter notebook to visualise the data. User needs to download the data files provided in the dataset folder.
 
-## Licensee
+## License
 MIT
