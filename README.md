@@ -8,4 +8,23 @@ In this notebook, we're going to reanalyze the data that made Semmelweis discove
 
 ## Installation
 
-** The readme is still in progress
+We will be using python programming language in the Jupyter Notebook. The jupyter notebook uses the standard Anaconda Distribution with the below mentioned packages installed. For Choropleth maps, we need to install folium python package, as its not part of standard distribution. 
+
+```sh
+$ import pandas as pd
+$ import matplotlib.pyplot as plt
+$ import numpy as np
+
+```
+
+## Datasets
+
+The dataset folder consists of _'monthly_deaths.csv'_ and _'yearly_deaths.csv'_ which consists of required data.
+
+
+## Interaction with the project
+
+If the user has jupyter notebook and necessary anaconda distribution. We can easily run the jupyter notebook to visualise the data. User needs to download the data files provided in the dataset folder.
+
+## Licensee
+MIT
